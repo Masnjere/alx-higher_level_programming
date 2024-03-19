@@ -2,11 +2,12 @@
 #define LISTS_H
 
 /**
- * struct listint_s - singly linked lst
- * @n: int
+ * struct listint_s - singly linked list
+ * @n: integer
  * @next: points to the next node
  *
- * Description: singly linked lst node struct for Holberton school
+ * Description: singly linked list node structure
+ * for Holberton school
  */
 typedef struct listint_s
 {
