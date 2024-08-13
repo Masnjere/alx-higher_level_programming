@@ -3,7 +3,7 @@
 
 
 class Square:
-    """represent a square"""
+    """represent a square."""
 
     def __init__(self, size=0):
         """initialize a new square.
