@@ -79,7 +79,7 @@ class Rectangle:
         return (rect_2)
 
     def __str__(self):
-        """Return the printable represenatation of the Rectangle.
+        """return the printable representation of the Rectangle.
 
         represents the rectangle with the # character.
         """
